@@ -6,5 +6,5 @@ Toen ik dit project gemaakt had, heb ik contact met Sjef, PE5POVB, gezocht een g
 kon krijgen om dit project op mijn manier te beschrijven en te publiceren in het Radio Amateur Magazine Electron
 van VERON, omdat ik van mening was dat dit bouwproject meer aandacht verdiend.
 Sjef heeft mij hiervoor toestemming verleend.
-In deze Github Repository beschrijf ik het project zoals gepublceerd in het September 2023 nr van Electron.
+In deze Github Repository beschrijf ik het project zoals gepubliceerd in het September 2023 nr van Electron.
 ---------------------------------------
